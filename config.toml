@@ -6,8 +6,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 arch = "arm64-v8a"
 build-mode = "module"
-version = "beta"
