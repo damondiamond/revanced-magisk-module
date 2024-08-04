@@ -24,7 +24,7 @@ build-mode = "module"
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 arch = "arm64-v8a"
-build-mode = "module"
+build-mode = "both"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
